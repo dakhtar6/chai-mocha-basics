@@ -1,0 +1,25 @@
+{
+  "name": "chai-mocha-basics",
+  "version": "0.0.0",
+  "description": "Basic experimentation with chai and mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dakhtar6/chai-mocha-basics.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Daneyal Akhtar",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/dakhtar6/chai-mocha-basics/issues"
+  },
+  "dependencies": {
+    "chai": "~2.1.0"
+  }
+}
